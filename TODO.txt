@@ -1,0 +1,3 @@
+재실행 spring retry
+mongodb를 활용한 복사
+kafka를 활용한 복사
